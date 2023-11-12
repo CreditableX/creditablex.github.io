@@ -2,12 +2,20 @@ body {
     background-color: powderblue;
   }
   h1 {
-    color: blue;
+    color: black;
     font-family: Arial;
-    font-size: 400%;
+    font-size: 300%;
+    text-align: center;
+    border: 2px black;
   }
   p {
     color: red;
     font-family: Arial;
     font-size: 120%;
+    text-align: center;
+  }
+  a {
+    color: black;
+    font-family: Arial;
+    text-align: center;
   }
